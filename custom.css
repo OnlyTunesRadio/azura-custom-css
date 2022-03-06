@@ -1,0 +1,39 @@
+[data-theme] header.navbar {
+    background-image: none;
+    background: rgb(39,182,126);
+	background: linear-gradient(90deg, rgba(39,182,126,1) 0%, rgba(44,232,158,1) 50%, rgba(59,221,221,1) 100%);
+}
+
+[data-theme] .card-header {
+	background: rgb(39,182,126);
+	background: linear-gradient(90deg, rgba(39,182,126,1) 0%, rgba(44,232,158,1) 50%, rgba(59,221,221,1) 100%);
+}
+
+[data-theme] .card-header.bg-primary-dark .card-title {
+	color: #000;
+}
+
+[data-theme] .card-header.bg-primary-dark .card-subtitle {
+	color: #000;
+}
+
+[data-theme] .btn-outline-light {
+	color: #000;
+}
+
+[data-theme] .nav-tabs .nav-link {
+	color: rgb(0 0 0 / 70%);
+}
+
+[data-theme] .nav-tabs .nav-link.active {
+	color: #000;
+}
+
+[data-theme] .btn-outline-light:hover {
+	color: #000;
+}
+
+[data-theme] .text-white-50 {
+	color: #000!important;
+}
+
